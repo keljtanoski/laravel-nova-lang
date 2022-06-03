@@ -170,7 +170,7 @@
     "Eritrea": "Eritreia",
     "Estonia": "Estónia",
     "Ethiopia": "Etiópia",
-    "Falkland Islands (Malvinas)": "Ilhas Malvinas (Falkland)",
+    "Falkland Islands (Malvinas)": "Ilhas Falkland",
     "Faroe Islands": "Ilhas Faroé",
     "Fiji": "Fiji",
     "Finland": "Finlândia",
@@ -372,5 +372,13 @@
     "Original": "Originais",
     "This resource no longer exists": "Este recurso não existe mais",
     ":resource Details": "Detalhes de :resource",
-    "The file was deleted!": "O arquivo foi eliminado!"
+    "The file was deleted!": "O arquivo foi eliminado!",
+    "30 Days": "30 dias",
+    "60 Days": "60 dias",
+    "90 Days": "90 dias",
+    "365 Days": "365 dias",
+    "Today": "Hoje",
+    "Month To Date": "Este mês",
+    "Quarter To Date": "Este trimestre",
+    "Year To Date": "Este ano"
 }
